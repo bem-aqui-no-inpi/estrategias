@@ -54,6 +54,18 @@ section {
 	padding-top: 0em;
 }
 
+
+.footer {
+   position: relative;
+   display: block;
+   left: 0;
+   bottom: 0;
+   padding: 2em 4em;
+   width: 100%;
+   color: white;
+   text-align: center;
+}
+
 /* Header */
 .codrops-header {
 	margin: 0 auto;
